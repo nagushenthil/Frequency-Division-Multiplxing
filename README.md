@@ -83,8 +83,10 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 
 # MANUAL CALCULATION
 
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/56c6053c-8870-43bd-8a41-ed2a635487fc" />
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/510a09be-82f4-46f4-88a5-eeb4b20cb332" />
+![WhatsApp Image 2025-12-04 at 10 24 41_80585bea](https://github.com/user-attachments/assets/e02da7c3-a0ed-43c0-900a-3af2d7b9069d)
+![WhatsApp Image 2025-12-04 at 10 24 41_321c86a3](https://github.com/user-attachments/assets/674c8f4d-53d3-4a70-8f1c-4835dd35de1e)
+
+
 
 
 # RESULT 
